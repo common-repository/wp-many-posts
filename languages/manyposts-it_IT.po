@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Many Posts v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-08 22:40:52+0000\n"
+"Last-Translator: andrea-somovigo <andrea.somovigo@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: manyPostsGrid.php:62
+#@ manyposts
+msgid "Post updated succesfully"
+msgstr "Articolo aggiornato correttamente"
+
+#: manyPostsGrid.php:214
+#@ manyposts
+msgid "Warning: empty category is not allowed, the post will be assigned to the default uncategorized taxonomy"
+msgstr "Attenzione, non è consentito salvare un post senza categorie, verrà assegnata la categoria di default"
+
+#: manyPostsGrid.php:269
+#@ manyposts
+msgid "Showing"
+msgstr "Mostro"
+
+#: manyPostsGrid.php:269
+#: manyPostsGrid.php:270
+#@ manyposts
+msgid "of"
+msgstr "di"
+
+#: manyPostsGrid.php:269
+#@ manyposts
+msgid "total"
+msgstr "totali"
+
+#: manyPostsGrid.php:271
+#@ manyposts
+msgid "Posts per page"
+msgstr "Articoli per pagina"
+
+#: manyPostsGrid.php:272
+#@ manyposts
+msgid "First page"
+msgstr "Prima pagina"
+
+#: manyPostsGrid.php:273
+#@ manyposts
+msgid "Last page"
+msgstr "Ultima pagina"
+
+#: manyPostsGrid.php:274
+#@ manyposts
+msgid "Next"
+msgstr "Prossima"
+
+#: manyPostsGrid.php:275
+#@ manyposts
+msgid "Prev."
+msgstr "Precedente"
+
+#: manyPostsGrid.php:276
+#@ manyposts
+msgid "Reload"
+msgstr "Ricarica"
+
+#: manyPostsGrid.php:277
+#@ manyposts
+msgid "More"
+msgstr "Più"
+
+#: manyPostsGrid.php:284
+#@ manyposts
+msgid "Filter by"
+msgstr "Filtra per"
+
+#: manyPostsGrid.php:291
+#@ manyposts
+msgid "Contains"
+msgstr "Contiene"
+
+#: manyPostsGrid.php:292
+#@ manyposts
+msgid "Starts with"
+msgstr "Inizia con"
+
+#: manyPostsGrid.php:293
+#@ manyposts
+msgid "Equal"
+msgstr "Uguale"
+
+#: manyPostsGrid.php:294
+#@ manyposts
+msgid "Not equal"
+msgstr "Diverso"
+
+#: manyPostsGrid.php:300
+#@ manyposts
+msgid "Title"
+msgstr "Titolo"
+
+#: manyPostsGrid.php:306
+#@ manyposts
+msgid "Slug"
+msgstr "Slug"
+
+#: manyPostsGrid.php:312
+#@ manyposts
+msgid "Status"
+msgstr "Stato"
+
+#: manyPostsGrid.php:321
+#@ manyposts
+msgid "Author"
+msgstr "Autore"
+
+#: manyPostsGrid.php:326
+#@ manyposts
+msgid "Categories"
+msgstr "Categorie"
+
+#: manyPostsGrid.php:334
+#@ manyposts
+msgid "Tags"
+msgstr ""
+
+#: manyPostsGrid.php:343
+#@ manyposts
+msgid "Open"
+msgstr "Apri"
+
+#. translators: plugin header field 'Name'
+#: wp-many-posts.php:0
+#@ manyposts
+msgid "WP Many Posts"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: wp-many-posts.php:0
+#@ manyposts
+msgid "http://softrade.it/wp-many-posts-wordpress-plugin"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: wp-many-posts.php:0
+#@ manyposts
+msgid "WP Many Posts helps administrators to manage blogs with thousands of posts. Key feature is an advanced inline editing to manage titles, slugs, categories, authors easily and quickly. Advanced search and filter to find and edit posts in one second. PRO version is coming soon with configuration for custom post types and custom fields."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: wp-many-posts.php:0
+#@ manyposts
+msgid "Andrea Somovigo"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: wp-many-posts.php:0
+#@ manyposts
+msgid "http://it.linkedin.com/in/andreasomovigo"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: wp-many-posts.php:0
+#@ manyposts
+msgid "1.0"
+msgstr ""
+
+#: wp-many-posts.php:45
+#@ default
+msgid "Manage Posts"
+msgstr ""
+
+#: wp-many-posts.php:50
+#@ default
+msgid "Settings"
+msgstr ""
+
+#: wp-many-posts.php:59
+#@ default
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wp-many-posts.php:62
+#@ default
+msgid "ADVANCED POSTS FILTER AND EDIT"
+msgstr ""
+
+#: wp-many-posts.php:92
+#@ manyposts
+msgid "WP Many Posts  Options"
+msgstr "Opzioni di Wp Many Posts"
+
+#: wp-many-posts.php:142
+#@ manyposts
+msgid "Show also drafts"
+msgstr "Mostra anche articoli in bozza"
+
+#: wp-many-posts.php:150
+#@ manyposts
+msgid "Grid color"
+msgstr "Colore"
+
+#: wp-many-posts.php:170
+#@ manyposts
+msgid "Choose some configuration"
+msgstr "Configurazioni"
+
+#: wp-many-posts.php:181
+#@ manyposts
+msgid "Include draft and pending?"
+msgstr "Includi articoli in bozza e in attesa revisione"
+
+#: wp-many-posts.php:192
+#@ manyposts
+msgid "Select a style..."
+msgstr "Seleziona stile"
+
+#: wp-many-posts.php:193
+#@ manyposts
+msgid "Dark"
+msgstr "Scuro"
+
+#: wp-many-posts.php:194
+#@ manyposts
+msgid "Light"
+msgstr "Chiaro"
+
